@@ -1,4 +1,4 @@
-# smoking-health-risk-analysis-dashboard
+
 # Smoking Health Risk Analysis Dashboard
 
 An interactive Power BI dashboard that explores the relationship between smoking behavior and health risk factors such as cholesterol and hypertension, across different age groups and genders.
